@@ -1,0 +1,15 @@
+{
+	"name": "adfjuly27poc123",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2bdf04ba-1876-4d19-a4cb-c010c7fc9f0c",
+		"tenantId": "343fe765-501b-48a3-b1c6-4735c0e8d512"
+	}
+}
